@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a developer passionate about creating fast, responsive, and robust digital experiences for small and medium-sized businesses. Whether you need a standout website to win work, a professional platform to list your services, or a new online store that drives conversions, I have you covered—with full-cycle project management and regular, transparent communication.
 
 ## 🚀 About Me
-- **What I Do:** I build modern, cross-browser websites and mobile apps designed to perform in today’s competitive digital landscape.
+- *My Journey: I began my professional career as a critical care flight paramedic—a role that demanded swift decision-making, technical expertise, and unwavering composure. This high-pressure background has shaped my approach to software development, where efficiency and reliability are paramount. Driven to create solutions that merge the best of both worlds, I strive to combine my passions and bridge the gap providing innovative solutions and a unique a perspective.
 - **Continuous Learning:** I’m currently deepening my skills at General Assembly’s Software Engineering course—expanding my expertise in web fundamentals, advanced JavaScript paradigms, mobile development, databases, and software engineering best practices.
 - **My Approach:** I take a no-nonsense, results-driven approach. I value clear communication and a forward-thinking mindset to deliver projects on time and to spec.
 
