@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a developer passionate about creating fast, re
 ## 🛠️ Skills & Technologies
 - **Programming Languages:** JavaScript, TypeScript, Python
 - **Front-End:** React, ReactNative, HTML, CSS, Tailwind CSS
-- **Back-End:** Node.js, Express, RESTful API, ReactRouter
+- **Back-End:** Node.js, Express, RESTful API, React Router
 - **Databases:** SQL, MySQL, MongoDB
 - **Mobile Development:** React Native, Android Studio
 - **Full Stack & More:** Modern web technologies, cross-platform development, agile project management, and everything covered in my General Assembly course—from responsive design to secure, scalable back-end systems.
