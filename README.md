@@ -30,7 +30,7 @@ I leverage the latest tools and frameworks to ensure your website or app is not 
 
 ## 📫 Connect with Me
 - **Email:** [simplydev1992@gmail.com](mailto:simplydev1992@gmail.com)
-- **LinkedIn:**  
+- **LinkedIn:** [LinkedIn Profile Page](https://www.linkedin.com/in/77578567-ccg/)
 
 
 Feel free to reach out—I’m always up for discussing innovative ideas or potential collaborations!
